@@ -1,0 +1,13 @@
+node_modules
+.npm
+.cache
+.env
+.local
+
+#Hardhat files
+cache
+artifacts
+
+.idea/
+
+mnemonic.txt
